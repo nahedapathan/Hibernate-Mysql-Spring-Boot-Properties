@@ -1,0 +1,1 @@
+# Hibernate-Mysql-Spring-Boot-Properties
